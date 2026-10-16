@@ -1,0 +1,6 @@
+{
+  "name": "LearnLoop AI",
+  "description": "Understand your mistakes. Master the concept. Intelligent Grade 8 & 9 STEM misconception analysis and adaptive follow-up learning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
